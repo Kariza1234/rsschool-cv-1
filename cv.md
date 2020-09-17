@@ -1,6 +1,7 @@
 
 # **Rebkavets Aliaksei**
 *+375 (29) 870-42-78  — preferred means of communication*
+
 *lehichh@gmail.com*
 ### Responsible for the support and development of logistics software, my functions are:
 * analysis and search for solutions to the tasks set by clients;
